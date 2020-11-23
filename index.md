@@ -15,8 +15,8 @@
 
 ### Work Experience
 
-__IT Experience__ : 1 Year
-__Overall Experience__: 7 Years
+- __IT Experience__ : 1 Year
+- __Overall Experience__: 7 Years
 
 -----------------------------------
 
@@ -33,7 +33,7 @@ For all information, please contact Kiersten Kindred at Talent Path.
 
 - __Phone Number__ : 713-547-4495 
 - __Email Address__ : [kkindred@talentpath.com](mailto:kkindred@talentpath.com)
-- __LinkedIn Account__ : [Click Link Here](https://www.linkedin.com/in/brandt-campbell-coding/)
+- __LinkedIn Account__ : [Click Here](https://www.linkedin.com/in/brandt-campbell-coding/)
 - __GitHub Account__ : [github.com/Reboot82](https://github.com/Reboot82)
 
 -------------------------------------
