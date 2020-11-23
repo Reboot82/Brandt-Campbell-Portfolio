@@ -2,7 +2,7 @@
 ----------------------------------- 
 ## About Me
 
-![headshot](/images/headshot.jpg)
+<img src="headshot.jpg" alt="headshot" width="200"/>
 
 <p style="font-weight: 500; font-Size: 18px;"><i>Full-stack software engineer in both Java and JavaScript with a background in video and audio production. Always seeking opportunities to utilize and expand these skills.</i></p>
 
